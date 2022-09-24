@@ -1,1 +1,10 @@
 # event-scheduler-website
+
+TECH STACK:
+PHP
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+MYSQL
+PHPMYADMIN
