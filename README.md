@@ -1,7 +1,7 @@
 # event-scheduler-website
 
 TECH STACK:
-PHP \n
+PHP <br />
 HTML
 CSS
 JAVASCRIPT
