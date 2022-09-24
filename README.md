@@ -1,1 +1,1 @@
-# event-creator-website
+# event-scheduler-website
